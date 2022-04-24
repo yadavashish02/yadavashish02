@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavashish02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.laobi.icu/badge?page_id=yadavashish02.yadavashish02)
