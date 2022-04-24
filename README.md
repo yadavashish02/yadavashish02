@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yadavashish02-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavashish02)](https://github.com/anuraghazra/github-readme-stats)
